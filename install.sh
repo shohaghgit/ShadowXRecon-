@@ -1,3 +1,2 @@
 #!/bin/bash
-pkg install -y python git
-pip install requests bs4
+echo 'Installing ShadowXRecon...'
